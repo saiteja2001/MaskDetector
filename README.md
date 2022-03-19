@@ -1,6 +1,6 @@
 # MaskDetector
 YOLOV3 model to detect mask breachers <br/>
- **Dataset collected from**
+ **Dataset collected from** <br/>
 link1 : https://www.kaggle.com/datasets/ashwingupta3012/human-faces
 <br /> link2 : https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 
