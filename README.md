@@ -11,6 +11,6 @@ using this for two classes filters = 21 <br />
 
 similiarly classes = 2 <br />
 And using the derivation for max-bathces as classes*2000
-<br /> we update it to 2*2000=4000 <br />
+<br /> we update it to 2x2000=4000 <br />
 
 we use the activators to be mish and sigmoid <br />
